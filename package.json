@@ -1,0 +1,17 @@
+{
+  "name": "backend-inv",
+  "version": "1.0.0",
+  "description": "backend sistem inv",
+  "main": "app.js",
+  "scripts": {
+    "test": "tes bro"
+  },
+  "author": "yogra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.18.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
